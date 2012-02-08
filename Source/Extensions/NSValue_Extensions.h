@@ -30,6 +30,7 @@
 //  or implied, of toxicsoftware.com.
 
 #import <Foundation/Foundation.h>
+#import <CoreGraphics/CoreGraphics.h>
 
 @interface NSValue (NSValue_Extensions)
 
